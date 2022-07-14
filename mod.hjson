@@ -1,23 +1,13 @@
-#the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Vengeance"
 
-#the internal name of your mod
-name: "example-java-mod"
+name: "vengeance"
 
-#your name
-author: "You"
+author: "Goob"
 
-#the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "vengeance.Vengeance"
 
-#the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+version: 0
 
-#the mod version
-version: 1.0
+minGameVersion: 135
 
-#the minimum game build required to run this mod
-minGameVersion: 129
-
-#this is a java mod
 java: true
